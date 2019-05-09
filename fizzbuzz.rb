@@ -6,7 +6,7 @@ elsif num % 3 == 0
   answer2 = "Fizz"
 elsif nim % 5 == 0
   answer2 = "Buzz"
-  
+
 end
 # if num % 3 == 0
 #     answer2 = "Fizz"
